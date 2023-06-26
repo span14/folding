@@ -7,4 +7,4 @@ This is an simulated example of folding scheme using Sangria/Protostar.
 - [] Decider Verification at the last step
 - [] Lookup and Copy Constraint
 - [] Non-Uniform Circuit
-
+- [] Multivariate Polynomial Commitment
